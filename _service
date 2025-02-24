@@ -1,5 +1,5 @@
 <services>
    <service name="run" mode="buildtime">
-      <param name="source">main.sh</param>
+      <param name="command">source main.sh</param>
    </service>
 </services>
