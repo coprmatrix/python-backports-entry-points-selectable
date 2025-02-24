@@ -1,4 +1,4 @@
 <repo>
    <url>https://copr.fedorainfracloud.org/coprs/huakim/kde-plasma/repo/fedora-rawhide/huakim-kde-plasma-fedora-rawhide.repo</url>
-   <pkg>py2pack</pkg>
+   <pkg>pyp2spec</pkg>
 </repo>
